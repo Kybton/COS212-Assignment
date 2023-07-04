@@ -1,0 +1,3 @@
+﻿  COS212_Assignment.cpp
+E:\COS212_Assignment\COS212_Assignment\COS212_Assignment.cpp(393,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  COS212_Assignment.vcxproj -> E:\COS212_Assignment\x64\Debug\COS212_Assignment.exe
